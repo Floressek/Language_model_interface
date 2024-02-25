@@ -14,7 +14,7 @@ This advanced Python project develops a sophisticated chat interface, enabling d
 ## Installation and Setup
 
 ### Prerequisites:
-Ensure Python 3.x is installed on your system.
+Ensure Python 3.x is installed on your system. Recommended RAM: 16GB and a decent GPU.
 
 ### Install Ollama:
 Before running the chat interface, install the ollama library using pip:
