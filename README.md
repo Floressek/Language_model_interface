@@ -1,7 +1,7 @@
 # Advanced Interactive Chat Interface with Ollama Language Models
 
 ## Overview
-This advanced Python project develops a sophisticated chat interface, enabling dynamic interaction with a variety of Ollama language models through a user-friendly, dark-themed GUI built using tkinter. Designed for flexibility and ease of use, it allows users to query different language models in real-time, offering functionalities to manage and document conversations effectively.
+This advanced Python project develops a chat interface, enabling dynamic interaction with a variety of Ollama language models through a user-friendly, dark-themed GUI built using tkinter. Designed for flexibility and ease of use, it allows users to query different language models in real-time, offering functionalities to manage and document conversations effectively.
 
 ## Key Features
 
@@ -20,6 +20,16 @@ Ensure Python 3.x is installed on your system. Recommended RAM: min. 16GB and a 
 Before running the chat interface, install the ollama library using pip:
 ```
 pip install ollama
+```
+## When installed, open ollama and run
+```
+run llama2
+run mistral
+run llama2:13b
+run llama2-uncensored
+run codellama:34b
+run deepseek-coder:33b
+run llava
 ```
 
 ### Clone the Repository:
